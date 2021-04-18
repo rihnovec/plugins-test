@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.date {
+  max-width: 400px;
+  height: 50px;
+  border: 1px solid #ccc;
+}
+
+.pickmeup .pmu-instance .pmu-selected {
+  background: rgb(247, 127, 14);
+}
